@@ -28,7 +28,7 @@ DaVinci_ISR_General_Tool_X2/3/4.exe input.png output.png
 Recovery from compressed low-resolution video frames to high-resolution video frames.
 
 
-<video><source src="[movie.mp4](https://user-images.githubusercontent.com/53380424/180170775-797e22f6-0ff9-4002-b723-7c116a84d898.mp4)" type="video/mp4"></video>
+![CVSR_Demo](https://user-images.githubusercontent.com/53380424/180170775-797e22f6-0ff9-4002-b723-7c116a84d898.mp4)"
 <p align="center">Left: Input Low-Quality Video, Right: DaVinci Enhanced Result</p>
 
 Two [executable files](https://azsjae.blob.core.windows.net/davinci/release/DaVinci_VSR_Small_Face_20220622.zip) are provided  in the Toolkit:
