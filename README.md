@@ -44,7 +44,7 @@ DaVinci_VSR_Small_Face_Online_X4.exe
   Reconstruct compressed low-resolution video to high-resolution video offline
 
 ```cmd
-DaVinci_VSR_Small_Face_Offline_X4.exe  input_video output_video
+DaVinci_VSR_Small_Face_Offline_X4.exe input_video output_video
 ```
 
 ## Related Projects
