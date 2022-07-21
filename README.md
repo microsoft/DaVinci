@@ -12,10 +12,8 @@ DaVinci was a famous Renaissance painter who had the ability to turn corruption 
 ### Image Super-Resolution
 Enhance the low-resolution images to high-resolution ones and reduce artifacts including noise, blur and JPEG blocking.
 
-<p align="center">
-  <img src="figs/ISR_Demo.png">
-  Left: Input Low-Quality Image, Right: DaVinci Enhanced Result
-</p>
+![ISR_Demo](figs/ISR_Demo.png)
+<p align="center">Left: Input Low-Quality Image, Right: DaVinci Enhanced Result</p>
 
 Three [executable files](https://azsjae.blob.core.windows.net/davinci/release/DaVinci_ISR_General_20220622.zip) are provided in the Toolkit:
 - DaVinci_ISR_General_Tool_X2/3/4.exe
@@ -29,10 +27,9 @@ DaVinci_ISR_General_Tool_X2/3/4.exe input.png output.png
 ### Compressed Video Super-Resolution
 Recovery from compressed low-resolution video frames to high-resolution video frames.
 
-<p align="center">
-  <video src="https://user-images.githubusercontent.com/53380424/180170775-797e22f6-0ff9-4002-b723-7c116a84d898.mp4">
-  Left: Input Low-Quality Video, Right: DaVinci Enhanced Result
-</p>
+
+<video src="https://user-images.githubusercontent.com/53380424/180170775-797e22f6-0ff9-4002-b723-7c116a84d898.mp4">
+<p align="center">Left: Input Low-Quality Video, Right: DaVinci Enhanced Result</p>
 
 Two [executable files](https://azsjae.blob.core.windows.net/davinci/release/DaVinci_VSR_Small_Face_20220622.zip) are provided  in the Toolkit:
 - DaVinci_VSR_Small_Face_Online_X4.exe
