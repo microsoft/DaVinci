@@ -1,7 +1,7 @@
 <h1 align="center" >DaVinci Image/Video Enhancement Toolkit</h1>
 
 ## Introduction
-DaVinci was a famous Renaissance painter who had the ability to turn corruption into magic. The DaVinci Toolkit is a set of intelligent image/video enhancement tools, aiming to solve the pain points of existing video enhancement and restoration tools，give full play to the advantages of AI technology and lower the threshold for users to process video footage.
+DaVinci was a famous Renaissance painter who had the ability to turn corruption into magic. The DaVinci Toolkit is a set of intelligent image/video enhancement tools, aiming to solve the pain points of existing video enhancement and restoration tools, give full play to the advantages of AI technology and lower the threshold for users to process video footage.
 
 ## Recent Updates
 - ✅Release the general image super-resolution toolkit.
