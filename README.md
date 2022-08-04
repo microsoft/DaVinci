@@ -57,6 +57,7 @@ We sincerely recommend some of our excellent works that make the DaVinci toolkit
 * [TTSR: Learning Texture Transformer Network for Image Super-Resolution](https://github.com/researchmm/TTSR)
 * [TTVSR: Learning Trajectory-Aware Transformer for Video Super-Resolution](https://github.com/researchmm/TTVSR)
 * [FTVSR: Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution](https://github.com/researchmm/FTVSR)
+* [TTVFI: Learning Trajectory-Aware Transformer for Video Frame Interpolation](https://arxiv.org/abs/2207.09048)
 
 ## Team Members
 - [Huan Yang](https://github.com/hyang0511) and [Jianlong Fu](https://github.com/Jianlong-Fu)
