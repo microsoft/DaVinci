@@ -63,9 +63,9 @@ We sincerely recommend some of our excellent works that make the DaVinci toolkit
 - [Huan Yang](https://github.com/hyang0511) and [Jianlong Fu](https://github.com/Jianlong-Fu)
   Lead this whole project. 
 - [Yin Chen](https://github.com/cyinen)
-  Integrate models into executable files and build these toolkit.
+  Train the general image enhancement models and integrate these models into executable files.
 - [Huiguo He](https://github.com/hehuiguo)
-  Process training data for compressed video super-resolution.
+  Process training data for conference meeting enhancement and train the models.
 
 ## Acknowledgment
 This toolkit is built on [ncnn](https://github.com/Tencent/ncnn). Some of the models are trained with [BasicSR](https://github.com/XPixelGroup/BasicSR). We sincerely thank all the authors of these projects.
