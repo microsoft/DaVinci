@@ -71,7 +71,7 @@ We sincerely recommend some of our excellent works that make the DaVinci toolkit
 This toolkit is built on [ncnn](https://github.com/Tencent/ncnn). Some of the models are trained with [BasicSR](https://github.com/XPixelGroup/BasicSR). We sincerely thank all the authors of these projects.
 
 ## Contact
-If you have any questions, please feel free to send an email to davinci@microsoft.com.
+If you have any questions, please feel free to raise an issue or send an email to davinci@microsoft.com.
 
 ## Contributing
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
