@@ -7,10 +7,11 @@ DaVinci was a famous Renaissance painter who had the ability to turn corruption 
 - ✅Release the general image super-resolution toolkit.
 - ✅Release the compressed video super-resolution toolkit.
   
-## Toolkit and Usage
+## Scenarios and Toolkits
 
-### Image Super-Resolution
-Enhance the low-resolution images to high-resolution ones and reduce artifacts including noise, blur and JPEG blocking.
+### Low-Quality Image Enhancement
+
+Users usually have some low-quality images that need to be improved. The degradations of such images are complex and unknown. Existing general image super-resolution approaches cannot achieve visual pleasant results. Target on this scenario, we build an image super-resolution toolkit for general user images that can handle various degradations. Specifically, our toolkit can enhance the low-resolution images to high-resolution ones and reduce artifacts including noise, blur, and JPEG blocking.
 
 ![ISR_Demo](figs/ISR_Demo.png)
 <p align="center">Left: Input Low-Quality Image, Right: DaVinci Enhanced Result</p>
@@ -24,8 +25,9 @@ Three [executable files](https://azsjae.blob.core.windows.net/davinci/release/Da
 DaVinci_ISR_General_Tool_X2/3/4.exe input.png output.png
 ```
 
-### Compressed Video Super-Resolution
-Recovery from compressed low-resolution video frames to high-resolution video frames.
+### Conference Meeting Enhancement
+
+The quality of streaming videos in conference meetings is usually affected a lot by the network quality. When facing unstable or low-bandwidth networks, the resolution and fps of the video streams are highly reduced and result in bad user experiences. To enhance the visual quality of the streaming videos, we propose a compressed video super-resolution toolkit for talking-head scenarios that can handle various compression artifacts. Specifically, our toolkit can recover from compressed low-resolution video frames to high-resolution video frames in real-time performance on CPU or low-end GPU.
 
 https://user-images.githubusercontent.com/53380424/180170775-797e22f6-0ff9-4002-b723-7c116a84d898.mp4
 <p align="center">Left: Input Low-Quality Video, Right: DaVinci Enhanced Result</p>
