@@ -54,7 +54,6 @@ We sincerely recommend some of our excellent works that make the DaVinci toolkit
 * [TTSR: Learning Texture Transformer Network for Image Super-Resolution](https://github.com/researchmm/TTSR)
 * [DMSR: Degradation-Guided Meta-Restoration Network for Blind Super-Resolution](https://arxiv.org/abs/2207.00943v1)
 * [CKDN: Learning Conditional Knowledge Distillation for Degraded-Reference Image Quality Assessment](https://github.com/researchmm/CKDN)
-* [TTSR: Learning Texture Transformer Network for Image Super-Resolution](https://github.com/researchmm/TTSR)
 * [TTVSR: Learning Trajectory-Aware Transformer for Video Super-Resolution](https://github.com/researchmm/TTVSR)
 * [FTVSR: Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution](https://github.com/researchmm/FTVSR)
 * [TTVFI: Learning Trajectory-Aware Transformer for Video Frame Interpolation](https://arxiv.org/abs/2207.09048)
